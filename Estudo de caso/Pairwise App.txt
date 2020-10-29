@@ -1,0 +1,18 @@
+>>>Produto	>>>>>>>>Loja	>>>>>Preco
+Cadeira Gamer MX5	Loja B	Barato
+Notebook__________HP	Loja C	Caro
+Notebook__________HP	Loja A	Normal
+Smartphone_____Motorola	Loja A	Barato
+Cadeira Gamer MX5	nenhuma	Caro
+Smartphone_____Motorola	Loja B	Normal
+Smartphone_____Motorola	nenhuma	Barato
+Notebook__________HP	nenhuma	Normal
+Notebook__________HP	Loja B	Barato
+Cadeira Gamer MX5	Loja C	Normal
+Smartphone Samsung	nenhuma	Caro
+Smartphone Samsung	Loja C	Barato
+Cadeira Gamer MX5	Loja A	Caro
+Smartphone Samsung	Loja B	Normal
+Smartphone_____Motorola	Loja C	Caro
+Smartphone Samsung	Loja A	Normal
+Smartphone Samsung	Loja B	Caro
